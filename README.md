@@ -7,7 +7,7 @@ This project is a web application that converts AI-written content into human-li
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/yourusername/ai-to-human-app.git
+   git clone https://github.com/yourusername/ai-to-human-app.git](https://github.com/GAYOSM/Humanizer_v2.0.git
    cd ai-to-human-app
    ```
 
